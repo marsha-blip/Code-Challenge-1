@@ -31,8 +31,8 @@ This repository contains three CLI tools:
    cd kenyan-cli-tools
    
 
-### Auther : Mary Itumo
+### Author: Mary Itumo
 
 
-## licence : copyright @2025
+## licence: copyright @2025
 
